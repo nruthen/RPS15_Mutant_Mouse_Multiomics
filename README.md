@@ -12,3 +12,5 @@
 
 ## Stop Codon Read Through Analysis
 
+![alt text](https://github.com/nruthen/RPS15_Mutant_Mouse_Multiomics/blob/main/documentation/Stop_Codon_Read_Through_Pipeline.png?raw=true)
+
